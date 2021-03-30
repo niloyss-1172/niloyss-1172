@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niloyss-1172
-- 👀 I’m interested in Software Testing and maintaining project quality
+- 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Pyhton framework
 - 💞️ I’m looking to collaborate on Automation Testing
 - 📫 How to reach me [shanewas.shakhawat@sun-asterisk.com]
